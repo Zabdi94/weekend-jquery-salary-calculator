@@ -1,0 +1,24 @@
+body {
+    background-color: lightslategray;
+}
+th { 
+    border: 1px black
+}
+td {
+    border: 1px black
+}
+
+
+.monthlyCost {
+    text-align: right;
+}
+
+h2{
+    text-align: right;
+}
+table{
+    text-align: left;
+    border: 1px solid black;
+    width: 40%;
+  
+}
